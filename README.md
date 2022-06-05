@@ -48,7 +48,7 @@ Passbolt is different from the other password managers because:
 
 Find out more: [https://www.passbolt.com](https://www.passbolt.com "Passbolt Homepage")
 
-### How does it look like?
+### What does it look like?
 
 [![Login](https://raw.githubusercontent.com/passbolt/passbolt_styleguide/master/src/img/screenshots/teaser-screenshot-login-275.png)](https://raw.githubusercontent.com/passbolt/passbolt_styleguide/master/src/img/screenshots/teaser-screenshot-login.png)
 [![Browse passwords](https://raw.githubusercontent.com/passbolt/passbolt_styleguide/master/src/img/screenshots/teaser-screenshot4-275.png)](https://raw.githubusercontent.com/passbolt/passbolt_styleguide/master/src/img/screenshots/teaser-screenshot4.png)
